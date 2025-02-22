@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\controllers\\soccerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\controllers\\soccerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\migrations\\202410162914_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\migrations\\202410162914_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\items.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\entities\\soccerplayersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\entities\\soccerplayersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\entities\\favsoccerplayersapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\entities\\favsoccerplayersapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\tirth\\downloads\\tirth_patel(8965481)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Index.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Index.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:13:03.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:01:19.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:01:21.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:32:31.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SoccerPlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Controllers\\SoccerPlayerController.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Controllers\\SoccerPlayerController.cs",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Controllers\\SoccerPlayerController.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Controllers\\SoccerPlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:32:35.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202410162914_initial.cs",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Migrations\\202410162914_initial.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Migrations\\202410162914_initial.cs",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Migrations\\202410162914_initial.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Migrations\\202410162914_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:11:04.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T13:20:48.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Items.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Items.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Items.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Items.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Items.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:00:33.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:20:08.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:57:55.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-19T14:12:42.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FavSoccerPlayersApp.cs",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Entities\\FavSoccerPlayersApp.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Entities\\FavSoccerPlayersApp.cs",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Entities\\FavSoccerPlayersApp.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Entities\\FavSoccerPlayersApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:33:22.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SoccerPlayersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Entities\\SoccerPlayersDbContext.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Entities\\SoccerPlayersDbContext.cs",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Entities\\SoccerPlayersDbContext.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Entities\\SoccerPlayersDbContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAgwAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:37:11.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T13:20:36.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T13:20:34.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Create.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Create.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:02:23.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Details.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Details.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:42:50.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Edit.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:40:04.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Program.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Program.cs",
+              "ToolTip": "C:\\Users\\tirth\\Downloads\\Tirth_Patel(8965481)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Program.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:32:08.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

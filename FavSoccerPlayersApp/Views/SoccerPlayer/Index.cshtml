@@ -1,0 +1,44 @@
+﻿@model IEnumerable<FavSoccerPlayersApp.Entities.SoccerPlayer>
+
+@{
+    ViewBag.Title = "Soccer Players";
+}
+
+<h1 style="color: #2c3e50;">Soccer Players</h1>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert" style="background-color: #f1c40f; color: #2c3e50;">
+        @TempData["Message"]
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+}
+
+<p>
+    <a asp-action="Create" class="btn btn-primary" style="background-color: #3498db; border-color: #2980b9;">Add New Player</a>
+</p>
+
+<table class="table table-bordered" style="border-color: #34495e;">
+    <thead style="background-color: #34495e; color: #ecf0f1;">
+        <tr>
+            <th>Name</th>
+            <th>Team</th>
+            <th>Number (Score)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var player in Model)
+        {
+            <tr style="background-color: #ecf0f1; color: #2c3e50;">
+                <td>@player.Name</td>
+                <td>@player.Team</td>
+                <td>@player.Number</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@player.Id" class="btn btn-info" style="background-color: #1abc9c; border-color: #16a085;">Details</a>
+                    <a asp-action="Edit" asp-route-id="@player.Id" class="btn btn-warning" style="background-color: #e67e22; border-color: #d35400;">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

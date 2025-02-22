@@ -1,0 +1,222 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\controllers\\soccerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\controllers\\soccerplayercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\entities\\soccerplayersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\entities\\soccerplayersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\entities\\favsoccerplayersapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\entities\\favsoccerplayersapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\soccerplayer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\soccerplayer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|c:\\users\\sdars\\downloads\\darshit_shah(8959684)\\midterm-starting-code\\favsoccerplayersapp\\favsoccerplayersapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE140DEB-6307-40D1-B4F7-030A3C0E18DC}|FavSoccerPlayersApp\\FavSoccerPlayersApp.csproj|solutionrelative:favsoccerplayersapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Create.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Create.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T19:02:23.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:57:55.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:57:02.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Details.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Details.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:42:50.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Edit.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Edit.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:40:04.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SoccerPlayersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Entities\\SoccerPlayersDbContext.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Entities\\SoccerPlayersDbContext.cs",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Entities\\SoccerPlayersDbContext.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Entities\\SoccerPlayersDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:37:11.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FavSoccerPlayersApp.cs",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Entities\\FavSoccerPlayersApp.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Entities\\FavSoccerPlayersApp.cs",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Entities\\FavSoccerPlayersApp.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Entities\\FavSoccerPlayersApp.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:33:22.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoccerPlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Controllers\\SoccerPlayerController.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Controllers\\SoccerPlayerController.cs",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Controllers\\SoccerPlayerController.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Controllers\\SoccerPlayerController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:32:35.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:32:31.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Program.cs",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Program.cs",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T18:32:08.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Index.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\SoccerPlayer\\Index.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\SoccerPlayer\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:30:54.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FavSoccerPlayersApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sdars\\Downloads\\Darshit_shah(8959684)\\midterm-starting-code\\FavSoccerPlayersApp\\FavSoccerPlayersApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FavSoccerPlayersApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T18:30:23.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
